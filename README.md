@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+</br>
 
-## Getting Started
+<h1 align="center">NEXT 13 TAILWIND TEMPLATE</h1>
 
-First, run the development server:
+This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Chakra UI, Eslint, Prettier, Pre-commit (Husky + lint-staged) and Cypress.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+**Get this starter project and maximize your experience like DEVELOPER!!!**
+
+<br>
+
+## System Requirements
+
+- Node.js 16.8 or later;
+- macOS, Windows (including WSL), and Linux are supported.
+
+## 💻 Programming languages and technologies
+
+- [NextJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+
+## Features
+
+- ⚛️ All of Next's advantages (Live reload, SSR, SSG, native API... );
+- 🎨 Styling with TailwindCSS;
+- 🛠 Types support by Typescript;
+- 📝 Code check and formatter by ESLint and Prettier;
+- ✨ Absolute imports `(@/)`;
+- 💡 Minimal folder structure;
+- 🔍 SEO friendly;
+- 🚀 All productivity to your project.
+
+## Automatic Installation
+
+- Install the create-adryan-nextjs-template-tailwind
+
+
+`$ yarn create adryan-nextjs-template-tailwind ` OR `$ npx create-adryan-nextjs-template-tailwind`
+
+
+- Run the development server
+
+`$ yarn dev` OR `$ npm run dev`
+
+- and... ENJOY 🛠️🚧⚙️
+
+```
+    1. Open (http://localhost:3000) with your browser to see the result.
+    2. You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Manual Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Clone repository
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+`$ git clone https://github.com/AstrOOnauta/next-13-boilerplate.git`
 
-## Learn More
+- Install dependencies
 
-To learn more about Next.js, take a look at the following resources:
+`$ yarn` OR `$ npm i`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Run the development server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+`$ yarn dev` OR `$ npm run dev`
 
-## Deploy on Vercel
+- and... ENJOY 🛠️🚧⚙️
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+    1. Open (http://localhost:3000) with your browser to see the result.
+    2. You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Terminal commands
+
+- `dev`: runs your application on `localhost:3000`;
+- `build`: creates the production build version;
+- `start`: starts a simple server with the build production code;
+- `lint`: runs the lintering commands in all components and pages;
+
+</br>
