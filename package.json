@@ -1,15 +1,7 @@
 {
-  "name": "create-adryan-nextjs-template-tailwind",
-  "version": "0.1.3",
+  "name": "adryan-template",
+  "version": "0.1.5",
   "description": "template para projetos nextjs",
-  "main": "index.js",
-  "repository": "git@github.com:AdryannSanntos/adryan-nextjs-template-tailwind.git",
-  "author": "AdryannSanntos",
-  "license": "ISC",
-  "private": false,
-  "bin": {
-    "create-adryan-nextjs-template-tailwind": "./bin/cli.js"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
